@@ -1,0 +1,242 @@
+
+.general {
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.title-contenedor {
+    margin: 0 auto
+}
+
+
+.title-contenedor .first-title {
+    margin: 0 auto;
+
+}
+
+.title-contenedor .first-title h1 {
+    font-family:'Poppins', sans-serif;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+    margin-bottom: 0px;
+    text-align: center;
+    margin: 0 auto
+}
+
+.title-contenedor .first-title h2 {
+    font-family:'Poppins', sans-serif;
+    color: hsl(234, 12%, 34%);
+    font-weight: bold 600;
+    margin-top: 0px;
+    font-size: 33px;
+    text-align: center;
+    margin: 0 auto
+}
+
+.title-contenedor .paragraph {
+    max-width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0;
+
+}
+
+.title-contenedor .paragraph p {
+    font-family:'Poppins', sans-serif;
+    color:hsl(229, 6%, 66%);
+    font-size: 15px;
+    max-width: 100%
+}
+
+
+.supervisor {
+    width: 355px;
+    height: 256px;
+    border-top: 3px  hsl(180, 62%, 55%) solid;
+    box-shadow: 0px 2px 15px 0px #9eafc2;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: flex-end;
+    margin-top: 150px;
+    border-radius: 5px;
+    margin-left:0px
+}
+
+.two-cards {
+    margin: 0 auto;
+}
+
+.titles h1 {
+    font-family:'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 25px;
+}
+
+.titles p {
+    font-family:'Poppins', sans-serif;
+    font-size: 14px;
+    margin: 25px
+}
+
+.image {
+    max-width: 70px;
+    margin: 30px
+}
+
+.image img {
+    max-width: 100%;
+}
+
+
+.team-builder {
+    max-width: 355px;
+    height: 256px;
+    border-top: 3px  hsl(0, 78%, 62%) solid;
+    box-shadow: 0px 2px 15px 0px #9eafc2;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: flex-end;
+    border-radius: 5px;
+
+
+}
+
+.karma {
+    max-width: 355px;
+    height: 256px;
+    border-top: 3px hsl(34, 97%, 64%) solid;
+    box-shadow: 0px 2px 15px 0px #9eafc2;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: flex-end;
+    margin-top:30px;
+    border-radius: 5px;
+}
+
+.calculator {
+    width: 355px;
+    height: 256px;
+    border-top: 3px  hsl(212, 86%, 64%) solid;
+    box-shadow: 0px 2px 15px 0px #9eafc2;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: flex-end;
+    margin-top: 150px;
+    border-radius: 5px;
+}
+
+
+
+@media only screen and (max-width: 375px) {
+
+.general {
+    display: block;
+    width: 370px;
+    margin-top:70px
+}
+
+.title-contenedor {
+    margin: 0 auto;
+    max-width:300px;
+    max-height:150px
+}
+
+.title-contenedor .first-title h1 {
+    width: 100%;
+    font-family:'Poppins', sans-serif;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+    font-size:23px;
+    margin-bottom: 0px;
+    text-align: center
+
+
+}
+
+.title-contenedor .first-title h2 {
+    font-family:'Poppins', sans-serif;
+    color: hsl(234, 12%, 34%);
+    font-weight: bold 600;
+    margin-top: 0px;
+    font-size: 23px;
+    text-align: center;
+    width: 100%;
+}
+
+.title-contenedor .paragraph {
+    max-width: 300px;
+    max-height: 70px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0;
+
+}
+
+.title-contenedor .paragraph p {
+    font-family:'Poppins', sans-serif;
+    color:hsl(229, 6%, 66%);
+    font-size: 15px;
+    width: 100%
+}
+
+.supervisor {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 310px;
+    height: 230px }
+
+.team-builder {
+    
+        width: 310px;
+        height: 230px;
+        border-top: 3px  hsl(0, 78%, 62%) solid;
+        box-shadow: 0px 2px 15px 0px #9eafc2;
+        display:flex;
+        flex-direction: column;
+        justify-content:space-between;
+        align-items: flex-end;
+        margin: 0 auto
+    
+    }
+    
+    .karma {
+        width: 310px;
+        height: 230px;
+        border-top: 3px hsl(34, 97%, 64%) solid;
+        box-shadow: 0px 2px 15px 0px #9eafc2;
+        display:flex;
+        flex-direction: column;
+        justify-content:space-between;
+        align-items: flex-end;
+        margin: 0 auto;
+        margin-top: 30px
+        
+    }
+    
+    .calculator {
+        width: 310px;
+        height: 230px;
+        border-top: 3px  hsl(212, 86%, 64%) solid;
+        box-shadow: 0px 2px 15px 0px #9eafc2;
+        display:flex;
+        flex-direction: column;
+        justify-content:space-between;
+        align-items: flex-end;
+        margin: 0 auto;
+        margin-top: 30px
+    }
+
+
+
+
+
+
+.image {
+    margin-top: 0px
+}
+

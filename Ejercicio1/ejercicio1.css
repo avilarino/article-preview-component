@@ -1,0 +1,204 @@
+* {
+    margin:0px;
+    padding:0px
+}
+
+
+body {
+    background: #ecf2f8;
+}
+
+.flower-container {
+    width: 280px;
+    height: 290px;
+
+}
+
+.flower-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px
+}
+
+.card {
+    margin: 2rem auto;
+}
+
+.card article {
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    max-width: 730px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background:  white;
+    box-shadow: 2px 2px 15px 0px #9eafc2;
+
+    
+}
+
+
+.text {
+    padding: 20px 30px;
+    max-width: 350px;
+}
+
+.title {
+    color: #48556a;
+    font-size: 13px;
+}
+
+.title h1 {
+    font-family:'Manrope', sans-serif; 
+
+}
+
+.title a {
+    text-decoration: none;
+    color:hsl(217, 19%, 35%);
+}
+
+.paragraph {
+    max-width: 350px;
+    margin-top: 20px;
+}
+
+.paragraph p {
+    font-family:'Manrope', sans-serif; 
+    font-size: 12px;
+    color: hsl(214, 17%, 51%); 
+}
+
+.contact {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin-top: 10px;}
+
+.contact a {
+    text-decoration: none;
+}
+   
+
+.avatar {
+    display: flex;
+    margin-top: 10px;
+}
+
+.avatar .circle img {
+    border-radius: 1000px;
+    max-width: 40px;
+    margin-right: 15px;
+
+}
+
+.name h1 {
+    color:hsl(217, 19%, 35%);
+    font-size: 12px ;
+    font-family:'Manrope', sans-serif; 
+}
+
+.name p {
+    font-size: 12px;
+    color:  hsl(214, 17%, 51%);
+    margin-top: 5px;
+    font-family:'Manrope', sans-serif;
+}
+
+.share {
+    background:  rgb(236, 242, 248);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: auto 0;
+    
+
+}
+
+.share img {
+  padding: 7px;
+  margin: auto 0;
+
+}
+.share .button-share {
+    border: none;
+    border-radius: 100%;
+}
+
+.share .social-media {
+    display: none
+}
+
+
+
+.share .social-media button {
+    background:hsl(217, 19%, 35%);
+    display: inline-block;
+    border: none;
+    border-radius: 15px;
+    width: 250px;
+}
+
+.share .social-media button a .letter {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.share .social-media button .letter {
+    color: white;
+}
+
+
+
+@media only screen and (max-width: 930px) {
+
+.card article {
+    display: flex;
+    flex-direction: column;
+    max-width: 420px;
+    box-shadow: 2px 2px 15px 0px hsl(212, 23%, 69%);
+    transition-duration: 0.2s;
+}
+
+
+.flower-container{
+    width:420px;
+    height: 200px;
+    transition-duration: 0.2s;
+}
+
+.flower-container img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px 10px 0px 0px;
+    transition-duration: 0.2s;
+}
+
+
+
+@media only screen and (max-width: 431px) {
+
+.card article {
+        display: flex;
+        flex-direction: column;
+        max-width: 330px;
+        max-height: 100%;
+        box-shadow: 2px 2px 15px 0px hsl(212, 23%, 69%);
+        transition-duration: 0.2s;
+    }
+
+.flower-container{
+        width:330px;
+        height: 200px;
+    }
+
+
+.flower-container img {
+        max-width: 100%;
+        max-height: 100%;
+        border-radius: 10px 10px 0px 0px;
+
+
+}
