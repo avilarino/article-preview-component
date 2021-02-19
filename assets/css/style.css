@@ -2,27 +2,32 @@
     margin:0px;
     padding:0px
 }
+
 html {
     height: 100%
 }
+
 body {
     background: #ecf2f8;
     height: 100%
 }
-/* anchos y altos imágen  */
+
 .flower-container {
-    width: 330px;
+    flex-basis: 330px;
 }
+
 .flower-container img {
-    width:100%;
+    max-width:100%;
     object-fit: contain;
     border-radius: 10px 10px 0px 0px;
 }
+
 .container {
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
+    height: 100%;
 }
 
 .container .card {
@@ -30,26 +35,29 @@ body {
     box-shadow: 2px 2px 15px 0px hsl(212, 23%, 69%);
     transition-duration: 0.2s;
     background: white;
-    max-width:330px;
+    max-width:330px
 }
+
 .text {
     padding: 20px 30px;
-    max-width: 440px;
-    max-height: 280px
 }
+
 .title {
     color: #48556a;
 }
+
 .title h1 {
     font-family:'Manrope', sans-serif; 
     font-size: 17px;
     margin-bottom: 20px;
     color:hsl(217, 19%, 35%)
 }
+
 .title a {
     text-decoration: none;
     color:hsl(217, 19%, 35%);
 }
+
 .paragraph p {
     font-family:'Manrope', sans-serif; 
     color: hsl(214, 17%, 51%); 
@@ -57,33 +65,40 @@ body {
     font-size: 13.65px;
     line-height: 20px;
 }
+
 .contact {
     display: flex;
-    justify-content: space-between;}
+    justify-content: space-between;
+}
 
 .contact a {
     text-decoration: none;
 }
+
 .avatar {
     display: flex;
     margin-top: 10px;
 }
+
 .avatar .circle img {
     border-radius: 1000px;
     max-width: 40px;
     margin-right: 15px;
 }
+
 .name h1 {
     color:hsl(217, 19%, 35%);
     font-size: 12px ;
     font-family:'Manrope', sans-serif; 
 }
+
 .name p {
     font-size: 12px;
     color:  hsl(214, 17%, 51%);
     margin-top: 5px;
     font-family:'Manrope', sans-serif;
 }
+
 .share {
     background:  rgb(236, 242, 248);
     width: 30px;
@@ -91,17 +106,21 @@ body {
     border-radius: 50%;
     margin: auto 0;
 }
+
 .share img {
   padding: 7px;
   margin: auto 0;
 }
+
 .share .button-share {
     border: none;
     border-radius: 100%;
 }
+
 .social-media {
     position: absolute;
 }
+
 .share .button-share .social-media .blue-card {
     width: 200px;
     height: 35px;
@@ -112,11 +131,13 @@ body {
     top:-70px;
     display: none
 }
+
 .social-media .blue-card {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
+
 .share:hover .button-share .social-media .blue-card {
     width: 200px;
     height: 35px;
@@ -129,11 +150,13 @@ body {
     justify-content: space-evenly;
     align-items: center;
 }
+
 .social-media .blue-card .letter {
     color:rgb(236, 242, 248);
     font-family: 'Manrope', sans-serif;
     font-size: 12px
 }
+
 .share .button-share .social-media .triangle {
     width: 0;
 	height: 0;
@@ -155,3 +178,28 @@ body {
 }
 
 
+
+@media only screen and (min-width: 450px) {
+
+    .container .card {
+    max-width: 730px;
+    box-shadow: 2px 2px 15px 0px hsl(212, 23%, 69%);
+    transition-duration: 0.2s;
+    display: flex;
+    flex-direction:row
+}
+
+    .flower-container{
+    transition-property: all;
+    transition-duration: 0.2s;
+    flex-basis: 800px;
+}
+
+    .flower-container img {
+    border-radius: 10px 10px 0px 0px;
+    transition-property: all;
+    transition-duration: 0.2s;
+    object-fit: contain;
+}
+
+}
