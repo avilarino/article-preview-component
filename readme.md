@@ -1,20 +1,23 @@
+# Article - Coded by -  Agustin Vilariño - 
+
 # Single article layout
 
 Basic HTML & CSS exercise to start practicing 
+
 
 ### Concepts involved
 
 * Mobile first
 * HTML 5 semantic
 * Flexbox
+* Responsive design
 
-### Reference design
 
 #### Mobile
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/Images/design/mobile-design.jpg)
+![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/mobile-design.jpg)
 
 #### Desktop
 
-![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/Images/design/desktop-design.jpg)
+![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/desktop-design.jpg)
 
