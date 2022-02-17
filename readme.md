@@ -1,10 +1,10 @@
-# Article - HTML - CSS - PRACTICE
+# Article Component - PRACTICE
 ## :computer: Coded by :saxophone:-   Agustin Vilariño -  :saxophone:
 
 ### Welcome !!
 My name is Agustin Vilariño, i am software developer from Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
-I love soccer, music and technology ! It´s a pleseure to me, if you wanna look my projects !!.
-:wave: :wave:
+I love soccer, music and technology ! It´s a pleseure to me if you wanna look my projects !!.
+Welcome to my Github  :wave: :wave:
 
 
 ### Concepts involved
@@ -34,7 +34,7 @@ I love soccer, music and technology ! It´s a pleseure to me, if you wanna look 
 
 :telephone:
 
-* Contact Me: 
+* Social Media: 
   * [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/)
 
   * [Github](https://github.com/avilarino)
