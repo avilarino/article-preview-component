@@ -7,7 +7,7 @@ I love soccer, music and technology ! It´s a pleseure to me if you wanna look m
 Welcome to my Github  :wave: :wave:
 
 
-### Concepts involved
+### :books: Concepts involved :books:
 
 * Mobile first
 * Responsive Design
@@ -17,11 +17,13 @@ Welcome to my Github  :wave: :wave:
 * Responsive design
 
 
-### Design
+### :triangular_ruler: Design :triangular_ruler:
+
+#### Mobile
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/mobile-design.jpg)
 
-### Desktop
+#### Desktop
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/desktop-design.jpg)
 
@@ -30,9 +32,9 @@ Welcome to my Github  :wave: :wave:
  * https://avilarino.github.io/article-preview-component/
 
 
-### Follow Me :raised_hands:
+### Follow Me :raised_hands: :telephone:  
 
-:telephone:  
+
 
 * Social Media: 
   * [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/)
