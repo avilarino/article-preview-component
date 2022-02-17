@@ -1,8 +1,8 @@
-# Article Component - PRACTICE
+# Article Component 
 ## :computer: Coded by :saxophone:-   Agustin Vilariño -  :saxophone:
 
 ### Welcome !!
-My name is Agustin Vilariño, i am software developer from Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
+My name is Agustin Vilariño, i am software developer from :pushpin: Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
 I love soccer, music and technology ! It´s a pleseure to me if you wanna look my projects !!.
 Welcome to my Github  :wave: :wave:
 
@@ -32,7 +32,7 @@ Welcome to my Github  :wave: :wave:
 
 ### Follow Me :raised_hands:
 
-:telephone:
+:telephone:  
 
 * Social Media: 
   * [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/)
