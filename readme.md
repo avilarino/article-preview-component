@@ -1,6 +1,9 @@
 # Article - HTML - CSS - PRACTICE
-:computer: coded by 
-:saxophone:-   Agustin Vilariño -  :saxophone:
+## :computer: coded by :saxophone:-   Agustin Vilariño -  :saxophone:
+
+### Welcome !!
+My name is Agustin Vilariño, i am software developer from Argentina :earth_americas: .
+I invite you to see my projects !!
 
 ### Concepts involved
 
