@@ -1,9 +1,6 @@
-# Article - Coded by -  Agustin Vilariño - 
-
-# Single article layout
-
-Basic HTML & CSS exercise to start practicing 
-
+# Article 
+:computer: coded by 
+:saxophone:-   Agustin Vilariño -  :saxophone:
 
 ### Concepts involved
 
@@ -13,7 +10,7 @@ Basic HTML & CSS exercise to start practicing
 * Responsive design
 
 
-#### Mobile
+#### Design
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/mobile-design.jpg)
 
@@ -21,3 +18,11 @@ Basic HTML & CSS exercise to start practicing
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/desktop-design.jpg)
 
+
+### Follow Me =>
+
+* Linkedin
+  * [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/)
+  
+* Github
+  *[Github](https://github.com/avilarino)
