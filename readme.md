@@ -3,7 +3,7 @@
 
 ### Welcome !!
 My name is Agustin Vilariño, i am software developer from :pushpin: Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
-I love soccer, music and technology ! It´s a pleseure to me if you wanna look my projects !!.
+I love soccer, music and technology ! It´s a pleseure to me if you wanna look my projects !!!!!.
 Welcome to my Github  :wave: :wave:
 
 
@@ -17,16 +17,16 @@ Welcome to my Github  :wave: :wave:
 * Responsive design
 
 
-#### Design
+### Design
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/mobile-design.jpg)
 
-#### Desktop
+### Desktop
 
 ![Screenshot](https://raw.githubusercontent.com/avilarino/article-html-css/master/assets/img/design/desktop-design.jpg)
 
 
-## Link to Github Pages
+### Link to Github Pages
  * https://avilarino.github.io/article-preview-component/
 
 
