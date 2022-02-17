@@ -1,9 +1,11 @@
 # Article - HTML - CSS - PRACTICE
-## :computer: coded by :saxophone:-   Agustin Vilariño -  :saxophone:
+## :computer: Coded by :saxophone:-   Agustin Vilariño -  :saxophone:
 
 ### Welcome !!
-My name is Agustin Vilariño, i am software developer from Argentina :earth_americas: .
-I invite you to see my projects !!
+My name is Agustin Vilariño, i am software developer from Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
+I love soccer, music and technology ! It´s a pleseure to me, if you wanna look my projects !!.
+:wave: :wave:
+
 
 ### Concepts involved
 
