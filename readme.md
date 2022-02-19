@@ -1,5 +1,5 @@
-# :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: Article Component :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap:
-## :computer: ------------- coded by :saxophone:-   Agustin Vilariño -  :saxophone: -------------
+# :zap: :zap: :zap:  :zap: :zap: :zap: :zap: Article Component :zap: :zap: :zap: :zap: :zap: :zap: :zap:
+##  --------------------------  coded by :computer: -   Agustin Vilariño -  :saxophone: -------------------------- 
 
 ### Welcome !!
 My name is Agustin Vilariño, i am software developer from :pushpin: Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
