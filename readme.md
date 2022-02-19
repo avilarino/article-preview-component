@@ -1,4 +1,4 @@
-# :zap: :zap: :zap: :zap: :zap: Article Component 
+# :zap: :zap: :zap: :zap: :zap: :zap: :zap:  Article Component 
 ## *coded by - **Agustin Vilariño** -  :saxophone:*
 
 ### Welcome !!
@@ -44,5 +44,5 @@ Welcome to my Github  :wave: :wave:
 
 
 ###  :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: 
-### SEE YOU SOON 
+### ---------- SEE YOU SOON ----------
 ### :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: :wave: 
