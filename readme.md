@@ -1,9 +1,9 @@
-# :zap: :zap: :zap:  :zap: :zap: :zap: :zap: Article Component :zap: :zap: :zap: :zap: :zap: :zap: :zap:
+# :zap: :zap: :zap: :zap: :zap: :zap: :zap: Article Component :zap: :zap: :zap: :zap: :zap: :zap: :zap:
 ##  ----------------------------------  coded by :computer: -   Agustin Vilariño -  :saxophone: --------------------------
 
 ### Welcome !!
-My name is Agustin Vilariño, i am software developer from :pushpin: Buenos Aires, Argentina :earth_americas: , yes ! the land of Lio Messi :soccer: .
-I love soccer, music and technology ! It´s a pleseure to me if you wanna look my projects !!!!!.
+My name is *Agustin Vilariño*, i am software developer from :pushpin: *Buenos Aires, Argentina* :earth_americas: , yes ! the land of Lio Messi :soccer: .
+I love soccer, music and technology ! *It´s a pleseure to me if you wanna look my projects !!!!!*.
 Welcome to my Github  :wave: :wave:
 
 
@@ -41,3 +41,5 @@ Welcome to my Github  :wave: :wave:
 
   * [Github](https://github.com/avilarino)
 
+
+### :wave: :wave: :wave: :wave: :wave: :wave: :wave: See You Soon :wave: :wave: :wave: :wave: :wave: :wave:
